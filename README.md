@@ -1,4 +1,4 @@
-# SpatialFormer (Transforomics) - Spatially Aware Cell State Prediction
+# SpatialFormer (Transformomics) - Spatially Aware Cell State Prediction
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Varsini-Sakthi/Spatialformer)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
